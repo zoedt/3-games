@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Project 1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tic_tac_toe">Tic Tac Toe</string>
+    <string name="title_activity_hangman">Hangman</string>
+    <string name="title_activity_connect4">Connect 4</string>
+    <string name="quit">QUIT</string>
+    <string name="placeholder_hangman_word">******</string>
+    <string name="guess_letter_hint">Type a letter to guess</string>
+    <string name="guess_button_text">Guess</string>
+    <string name="letters_used_text">Letters Used:</string>
+    <string name="player_1_missed_guesses">Player 1 has guessed wrong 0 times</string>
+    <string name="player_2_missed_guesses">Player 2 has guessed wrong 0 times</string>
+    <string name="player_1_hint">Player 1 name</string>
+    <string name="player_2_hint">Player 2 name</string>
+    <string name="tic_tac_toe_text">Tic Tac Toe</string>
+    <string name="connect_4_text">Connect 4</string>
+    <string name="hangman_text">Hangman</string>
+    <string name="player_1_score">Player 1 : 0</string>
+    <string name="player_2_score">Player 2 : 0</string>
+</resources>
